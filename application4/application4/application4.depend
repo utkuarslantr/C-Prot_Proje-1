@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1719229622 source:c:\users\utku arslan\application4\application4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<windows.h>
+
+1719560608 source:c:\users\utku arslan\desktop\application4\application4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+

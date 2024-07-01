@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719397488 source:c:\users\utku arslan\desktop\application3\application3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+
